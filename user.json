@@ -1,0 +1,72 @@
+{
+    "FORMULA1": {
+        "USER": [
+            {
+                "$": {
+                    "year": "2018"
+                },
+                "NAME": [
+                    "VETTEL"
+                ],
+                "TEAM": [
+                    "FERRARI"
+                ]
+            },
+            {
+                "$": {
+                    "year": "2018"
+                },
+                "NAME": [
+                    "RAIKKONEN"
+                ],
+                "TEAM": [
+                    "FERRARI"
+                ]
+            },
+            {
+                "$": {
+                    "year": "2018"
+                },
+                "NAME": [
+                    "HAMILTON"
+                ],
+                "TEAM": [
+                    "MERCEDES"
+                ]
+            },
+            {
+                "$": {
+                    "year": "2018"
+                },
+                "NAME": [
+                    "BOTTAS"
+                ],
+                "TEAM": [
+                    "MERCEDES"
+                ]
+            },
+            {
+                "$": {
+                    "year": "2018"
+                },
+                "NAME": [
+                    "RICCIARDO"
+                ],
+                "TEAM": [
+                    "REDBULL"
+                ]
+            },
+            {
+                "$": {
+                    "year": "2018"
+                },
+                "NAME": [
+                    "VERSTAPPEN"
+                ],
+                "TEAM": [
+                    "REDBULL"
+                ]
+            }
+        ]
+    }
+}
